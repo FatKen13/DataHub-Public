@@ -1,0 +1,63 @@
+{
+  "updatedAt": "2026-09-04T16:00:09.819281+07:00",
+  "updatedDate": "2026-09-04",
+  "source": "Vietcombank",
+  "currencies": [
+    {
+      "code": "USD",
+      "name": "US DOLLAR",
+      "buyCash": 25480,
+      "buyTransfer": 25510,
+      "sell": 25870
+    },
+    {
+      "code": "EUR",
+      "name": "EURO",
+      "buyCash": 27250,
+      "buyTransfer": 27520,
+      "sell": 28750
+    },
+    {
+      "code": "JPY",
+      "name": "JAPANESE YEN",
+      "buyCash": 165.2,
+      "buyTransfer": 166.8,
+      "sell": 175.1
+    },
+    {
+      "code": "GBP",
+      "name": "BRITISH POUND",
+      "buyCash": 32800,
+      "buyTransfer": 33130,
+      "sell": 34200
+    },
+    {
+      "code": "AUD",
+      "name": "AUST DOLLAR",
+      "buyCash": 16200,
+      "buyTransfer": 16360,
+      "sell": 16890
+    },
+    {
+      "code": "SGD",
+      "name": "SINGAPORE DOLLAR",
+      "buyCash": 19100,
+      "buyTransfer": 19300,
+      "sell": 19910
+    },
+    {
+      "code": "CNY",
+      "name": "CHINESE YUAN",
+      "buyCash": 3480,
+      "buyTransfer": 3515,
+      "sell": 3630
+    },
+    {
+      "code": "KRW",
+      "name": "SOUTH KOREAN WON",
+      "buyCash": 16.2,
+      "buyTransfer": 18.0,
+      "sell": 19.65
+    }
+  ]
+}

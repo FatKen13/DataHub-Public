@@ -1,0 +1,32 @@
+{
+  "updatedAt": "2026-09-04T16:00:19.902965+07:00",
+  "updatedDate": "2026-09-04",
+  "unit": "VNĐ / lít hoặc kg",
+  "items": [
+    {
+      "name": "Xăng RON 95-V",
+      "zone1": 21850,
+      "zone2": 22280
+    },
+    {
+      "name": "Xăng RON 95-III",
+      "zone1": 21320,
+      "zone2": 21740
+    },
+    {
+      "name": "Xăng E5 RON 92-II",
+      "zone1": 20450,
+      "zone2": 20850
+    },
+    {
+      "name": "Dầu Diesel 0.05S-II",
+      "zone1": 19280,
+      "zone2": 19660
+    },
+    {
+      "name": "Dầu Hỏa 2-K",
+      "zone1": 19450,
+      "zone2": 19830
+    }
+  ]
+}

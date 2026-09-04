@@ -1,0 +1,68 @@
+{
+  "updatedAt": "2026-09-04T16:00:09.819156+07:00",
+  "updatedDate": "2026-09-04",
+  "updatedTime": "16:00:09 (GMT+7)",
+  "unit": "triệu đồng / lượng",
+  "items": [
+    {
+      "id": "sjc_hcm",
+      "brand": "SJC",
+      "name": "Vàng miếng SJC 1L - 10L",
+      "buy": 145.6,
+      "sell": 148.6,
+      "buyPerChi": 14.56,
+      "sellPerChi": 14.86,
+      "change": 0.2
+    },
+    {
+      "id": "sjc_nhan",
+      "brand": "SJC",
+      "name": "Vàng nhẫn SJC 99,99% (1-5 chỉ)",
+      "buy": 147.5,
+      "sell": 150.5,
+      "buyPerChi": 14.75,
+      "sellPerChi": 15.05,
+      "change": 0.3
+    },
+    {
+      "id": "doji_hn",
+      "brand": "DOJI",
+      "name": "DOJI Hưng Thịnh Vượng 9999",
+      "buy": 147.6,
+      "sell": 150.6,
+      "buyPerChi": 14.76,
+      "sellPerChi": 15.06,
+      "change": 0.25
+    },
+    {
+      "id": "pnj_hcm",
+      "brand": "PNJ",
+      "name": "Vàng PNJ 24K (Trơn / Ép vỉ)",
+      "buy": 147.2,
+      "sell": 150.2,
+      "buyPerChi": 14.72,
+      "sellPerChi": 15.02,
+      "change": 0.15
+    },
+    {
+      "id": "vang_18k",
+      "brand": "Thị Trường",
+      "name": "Vàng Tây 18K (75% Au)",
+      "buy": 105.5,
+      "sell": 110.5,
+      "buyPerChi": 10.55,
+      "sellPerChi": 11.05,
+      "change": 0.1
+    },
+    {
+      "id": "vang_14k",
+      "brand": "Thị Trường",
+      "name": "Vàng Tây 14K (58.3% Au)",
+      "buy": 81.2,
+      "sell": 86.2,
+      "buyPerChi": 8.12,
+      "sellPerChi": 8.62,
+      "change": 0.05
+    }
+  ]
+}
