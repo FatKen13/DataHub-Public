@@ -1,0 +1,39 @@
+name: Market Data Crawler
+
+on:
+  schedule:
+    # 02:00 UTC = 09:00 AM VN (M·ªü c·ª≠a ng√†y m·ªõi)
+    # 10:00 UTC = 17:00 PM VN (Ch·ªët phi√™n trong ng√†y)
+    - cron: '0 2,10 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run Market Crawler
+        run: |
+          python scripts/crawl_market.py
+
+      - name: Commit and push updated market data
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add api/v1/market/
+          if git diff --staged --quiet; then
+            echo "No market data changes to commit."
+          else
+            git commit -m "chore(market): auto-sync market rates [skip ci]"
+            git push
+          fi
