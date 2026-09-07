@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-09-07T15:52:22.102213+07:00",
+  "updatedAt": "2026-09-07T22:26:27.911785+07:00",
   "updatedDate": "2026-09-07",
-  "updatedTime": "15:52:22 (GMT+7)",
+  "updatedTime": "22:26:27 (GMT+7)",
   "source": "Thị trường Vàng Việt Nam & Tổng hợp Trực tuyến",
   "unit": "triệu đồng / lượng",
   "items": [
@@ -14,7 +14,7 @@
       "sell": 146.5,
       "buyPerChi": 14.35,
       "sellPerChi": 14.65,
-      "change": -0.5
+      "change": 0.0
     },
     {
       "id": "sjc_nhan",
@@ -25,7 +25,7 @@
       "sell": 146.0,
       "buyPerChi": 14.3,
       "sellPerChi": 14.6,
-      "change": -0.5
+      "change": 0.0
     },
     {
       "id": "doji_hn",
@@ -36,7 +36,7 @@
       "sell": 149.0,
       "buyPerChi": 14.5,
       "sellPerChi": 14.9,
-      "change": -0.2
+      "change": 0.0
     },
     {
       "id": "pnj_gold",
@@ -47,7 +47,7 @@
       "sell": 146.4,
       "buyPerChi": 14.3,
       "sellPerChi": 14.64,
-      "change": -0.5
+      "change": 0.0
     },
     {
       "id": "gold_18k",
@@ -58,7 +58,7 @@
       "sell": 109.5,
       "buyPerChi": 10.72,
       "sellPerChi": 10.95,
-      "change": -0.38
+      "change": 0.0
     },
     {
       "id": "gold_14k",
@@ -69,7 +69,7 @@
       "sell": 85.12,
       "buyPerChi": 8.34,
       "sellPerChi": 8.51,
-      "change": -0.29
+      "change": 0.0
     },
     {
       "id": "doji_hcm",
@@ -80,18 +80,18 @@
       "sell": 149.0,
       "buyPerChi": 14.5,
       "sellPerChi": 14.9,
-      "change": -0.2
+      "change": 0.0
     },
     {
       "id": "btmc_rong",
       "brand": "Bảo Tín Minh Châu",
       "name": "Vàng Rồng Thăng Long",
       "city": "Toàn quốc",
-      "buy": 145.1,
-      "sell": 149.1,
-      "buyPerChi": 14.51,
-      "sellPerChi": 14.91,
-      "change": -0.2
+      "buy": 144.6,
+      "sell": 148.6,
+      "buyPerChi": 14.46,
+      "sellPerChi": 14.86,
+      "change": -0.5
     },
     {
       "id": "gold_9999",
@@ -102,7 +102,7 @@
       "sell": 144.54,
       "buyPerChi": 14.16,
       "sellPerChi": 14.45,
-      "change": -0.49
+      "change": 0.0
     }
   ]
 }
