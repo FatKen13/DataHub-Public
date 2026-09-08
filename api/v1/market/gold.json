@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-09-08T13:48:48.578054+07:00",
+  "updatedAt": "2026-09-08T21:02:48.497855+07:00",
   "updatedDate": "2026-09-08",
-  "updatedTime": "13:48:48 (GMT+7)",
+  "updatedTime": "21:02:48 (GMT+7)",
   "source": "Thị trường Vàng Việt Nam & Tổng hợp Trực tuyến",
   "unit": "triệu đồng / lượng",
   "items": [
@@ -14,7 +14,7 @@
       "sell": 146.6,
       "buyPerChi": 14.36,
       "sellPerChi": 14.66,
-      "change": 0.1
+      "change": 0.0
     },
     {
       "id": "sjc_nhan",
@@ -25,18 +25,18 @@
       "sell": 146.1,
       "buyPerChi": 14.31,
       "sellPerChi": 14.61,
-      "change": 0.1
+      "change": 0.0
     },
     {
       "id": "doji_hn",
       "brand": "DOJI",
       "name": "DOJI Hưng Thịnh Vượng 9999",
       "city": "Toàn quốc",
-      "buy": 145.2,
-      "sell": 149.2,
-      "buyPerChi": 14.52,
-      "sellPerChi": 14.92,
-      "change": 0.2
+      "buy": 145.0,
+      "sell": 149.0,
+      "buyPerChi": 14.5,
+      "sellPerChi": 14.9,
+      "change": -0.2
     },
     {
       "id": "pnj_gold",
@@ -47,7 +47,7 @@
       "sell": 146.6,
       "buyPerChi": 14.32,
       "sellPerChi": 14.66,
-      "change": 0.2
+      "change": 0.0
     },
     {
       "id": "gold_18k",
@@ -58,7 +58,7 @@
       "sell": 109.57,
       "buyPerChi": 10.73,
       "sellPerChi": 10.96,
-      "change": 0.07
+      "change": 0.0
     },
     {
       "id": "gold_14k",
@@ -69,18 +69,18 @@
       "sell": 85.18,
       "buyPerChi": 8.34,
       "sellPerChi": 8.52,
-      "change": 0.06
+      "change": 0.0
     },
     {
       "id": "doji_hcm",
       "brand": "DOJI",
       "name": "DOJI Hưng Thịnh Vượng 9999 (TP.HCM)",
       "city": "Toàn quốc",
-      "buy": 145.2,
-      "sell": 149.2,
-      "buyPerChi": 14.52,
-      "sellPerChi": 14.92,
-      "change": 0.2
+      "buy": 145.0,
+      "sell": 149.0,
+      "buyPerChi": 14.5,
+      "sellPerChi": 14.9,
+      "change": -0.2
     },
     {
       "id": "btmc_rong",
@@ -91,7 +91,7 @@
       "sell": 148.9,
       "buyPerChi": 14.49,
       "sellPerChi": 14.89,
-      "change": 0.3
+      "change": 0.0
     },
     {
       "id": "gold_9999",
@@ -102,7 +102,7 @@
       "sell": 144.64,
       "buyPerChi": 14.17,
       "sellPerChi": 14.46,
-      "change": 0.1
+      "change": 0.0
     }
   ]
 }
