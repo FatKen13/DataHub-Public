@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-09-09T13:57:43.486124+07:00",
+  "updatedAt": "2026-09-09T21:05:04.318211+07:00",
   "updatedDate": "2026-09-09",
-  "updatedTime": "13:57:43 (GMT+7)",
+  "updatedTime": "21:05:04 (GMT+7)",
   "source": "Thị trường Vàng Việt Nam & Tổng hợp Trực tuyến",
   "unit": "triệu đồng / lượng",
   "items": [
@@ -10,99 +10,99 @@
       "brand": "SJC",
       "name": "Vàng miếng SJC 1L - 10L",
       "city": "Toàn quốc",
-      "buy": 142.4,
-      "sell": 145.4,
-      "buyPerChi": 14.24,
-      "sellPerChi": 14.54,
-      "change": -1.2
+      "buy": 143.6,
+      "sell": 146.6,
+      "buyPerChi": 14.36,
+      "sellPerChi": 14.66,
+      "change": 1.2
     },
     {
       "id": "sjc_nhan",
       "brand": "SJC",
       "name": "Vàng nhẫn SJC 99,99% (1-5 chỉ)",
       "city": "Toàn quốc",
-      "buy": 141.9,
-      "sell": 144.9,
-      "buyPerChi": 14.19,
-      "sellPerChi": 14.49,
-      "change": -1.2
+      "buy": 143.1,
+      "sell": 146.1,
+      "buyPerChi": 14.31,
+      "sellPerChi": 14.61,
+      "change": 1.2
     },
     {
       "id": "doji_hn",
       "brand": "DOJI",
       "name": "DOJI Hưng Thịnh Vượng 9999",
       "city": "Toàn quốc",
-      "buy": 143.7,
-      "sell": 147.7,
-      "buyPerChi": 14.37,
-      "sellPerChi": 14.77,
-      "change": -1.3
+      "buy": 144.0,
+      "sell": 148.0,
+      "buyPerChi": 14.4,
+      "sellPerChi": 14.8,
+      "change": 0.3
     },
     {
       "id": "pnj_gold",
       "brand": "PNJ",
       "name": "Vàng PNJ 24K (Trơn / Ép vỉ)",
       "city": "Toàn quốc",
-      "buy": 142.0,
-      "sell": 145.4,
-      "buyPerChi": 14.2,
-      "sellPerChi": 14.54,
-      "change": -1.2
+      "buy": 143.2,
+      "sell": 146.5,
+      "buyPerChi": 14.32,
+      "sellPerChi": 14.65,
+      "change": 1.1
     },
     {
       "id": "gold_18k",
       "brand": "Thị Trường",
       "name": "Vàng Tây 18K (75% Au)",
       "city": "Toàn quốc",
-      "buy": 106.43,
-      "sell": 108.68,
-      "buyPerChi": 10.64,
-      "sellPerChi": 10.87,
-      "change": -0.89
+      "buy": 107.32,
+      "sell": 109.57,
+      "buyPerChi": 10.73,
+      "sellPerChi": 10.96,
+      "change": 0.89
     },
     {
       "id": "gold_14k",
       "brand": "Thị Trường",
       "name": "Vàng Tây 14K (58.3% Au)",
       "city": "Toàn quốc",
-      "buy": 82.73,
-      "sell": 84.48,
-      "buyPerChi": 8.27,
-      "sellPerChi": 8.45,
-      "change": -0.7
+      "buy": 83.43,
+      "sell": 85.18,
+      "buyPerChi": 8.34,
+      "sellPerChi": 8.52,
+      "change": 0.7
     },
     {
       "id": "doji_hcm",
       "brand": "DOJI",
       "name": "DOJI Hưng Thịnh Vượng 9999 (TP.HCM)",
       "city": "Toàn quốc",
-      "buy": 143.7,
-      "sell": 147.7,
-      "buyPerChi": 14.37,
-      "sellPerChi": 14.77,
-      "change": -1.3
+      "buy": 144.0,
+      "sell": 148.0,
+      "buyPerChi": 14.4,
+      "sellPerChi": 14.8,
+      "change": 0.3
     },
     {
       "id": "btmc_rong",
       "brand": "Bảo Tín Minh Châu",
       "name": "Vàng Rồng Thăng Long",
       "city": "Toàn quốc",
-      "buy": 143.6,
-      "sell": 147.6,
-      "buyPerChi": 14.36,
-      "sellPerChi": 14.76,
-      "change": -1.3
+      "buy": 144.0,
+      "sell": 148.0,
+      "buyPerChi": 14.4,
+      "sellPerChi": 14.8,
+      "change": 0.4
     },
     {
       "id": "gold_9999",
       "brand": "Thị Trường",
       "name": "Vàng 24K (99.99% - Nữ trang)",
       "city": "Toàn quốc",
-      "buy": 140.48,
-      "sell": 143.45,
-      "buyPerChi": 14.05,
-      "sellPerChi": 14.34,
-      "change": -1.19
+      "buy": 141.67,
+      "sell": 144.64,
+      "buyPerChi": 14.17,
+      "sellPerChi": 14.46,
+      "change": 1.19
     }
   ]
 }
