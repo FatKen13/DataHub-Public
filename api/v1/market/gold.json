@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-09-30T14:48:32.000367+07:00",
+  "updatedAt": "2026-09-30T23:12:30.936075+07:00",
   "updatedDate": "2026-09-30",
-  "updatedTime": "14:48:32 (GMT+7)",
+  "updatedTime": "23:12:30 (GMT+7)",
   "source": "Thị trường Vàng Việt Nam & Tổng hợp Trực tuyến",
   "unit": "triệu đồng / lượng",
   "items": [
@@ -14,7 +14,7 @@
       "sell": 144.1,
       "buyPerChi": 14.11,
       "sellPerChi": 14.41,
-      "change": 1.6
+      "change": 0.0
     },
     {
       "id": "sjc_nhan",
@@ -25,18 +25,18 @@
       "sell": 143.6,
       "buyPerChi": 14.06,
       "sellPerChi": 14.36,
-      "change": 1.6
+      "change": 0.0
     },
     {
       "id": "doji_hn",
       "brand": "DOJI",
       "name": "DOJI Hưng Thịnh Vượng 9999",
       "city": "Toàn quốc",
-      "buy": 139.8,
-      "sell": 143.8,
-      "buyPerChi": 13.98,
-      "sellPerChi": 14.38,
-      "change": 1.3
+      "buy": 140.0,
+      "sell": 144.0,
+      "buyPerChi": 14.0,
+      "sellPerChi": 14.4,
+      "change": 0.2
     },
     {
       "id": "pnj_gold",
@@ -47,7 +47,7 @@
       "sell": 144.1,
       "buyPerChi": 14.11,
       "sellPerChi": 14.41,
-      "change": 1.6
+      "change": 0.0
     },
     {
       "id": "gold_18k",
@@ -58,7 +58,7 @@
       "sell": 107.7,
       "buyPerChi": 10.54,
       "sellPerChi": 10.77,
-      "change": 1.2
+      "change": 0.0
     },
     {
       "id": "gold_14k",
@@ -69,29 +69,29 @@
       "sell": 83.72,
       "buyPerChi": 8.2,
       "sellPerChi": 8.37,
-      "change": 0.93
+      "change": 0.0
     },
     {
       "id": "doji_hcm",
       "brand": "DOJI",
       "name": "DOJI Hưng Thịnh Vượng 9999 (TP.HCM)",
       "city": "Toàn quốc",
-      "buy": 139.8,
-      "sell": 143.8,
-      "buyPerChi": 13.98,
-      "sellPerChi": 14.38,
-      "change": 1.3
+      "buy": 140.0,
+      "sell": 144.0,
+      "buyPerChi": 14.0,
+      "sellPerChi": 14.4,
+      "change": 0.2
     },
     {
       "id": "btmc_rong",
       "brand": "Bảo Tín Minh Châu",
       "name": "Vàng Rồng Thăng Long",
       "city": "Toàn quốc",
-      "buy": 139.9,
-      "sell": 143.9,
-      "buyPerChi": 13.99,
-      "sellPerChi": 14.39,
-      "change": 1.4
+      "buy": 140.2,
+      "sell": 144.2,
+      "buyPerChi": 14.02,
+      "sellPerChi": 14.42,
+      "change": 0.3
     },
     {
       "id": "gold_9999",
@@ -102,7 +102,7 @@
       "sell": 142.16,
       "buyPerChi": 13.92,
       "sellPerChi": 14.22,
-      "change": 1.58
+      "change": 0.0
     }
   ]
 }
