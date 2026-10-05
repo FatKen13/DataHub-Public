@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-05T15:04:41.628364+07:00",
-  "updatedDate": "2026-10-05",
-  "updatedTime": "15:04:41 (GMT+7)",
+  "updatedAt": "2026-10-06T01:59:41.702312+07:00",
+  "updatedDate": "2026-10-06",
+  "updatedTime": "01:59:41 (GMT+7)",
   "source": "Thị trường Vàng Việt Nam & Tổng hợp Trực tuyến",
   "unit": "triệu đồng / lượng",
   "items": [
@@ -43,11 +43,11 @@
       "brand": "PNJ",
       "name": "Vàng PNJ 24K (Trơn / Ép vỉ)",
       "city": "Toàn quốc",
-      "buy": 140.5,
-      "sell": 143.5,
-      "buyPerChi": 14.05,
-      "sellPerChi": 14.35,
-      "change": 0.0
+      "buy": 140.3,
+      "sell": 143.3,
+      "buyPerChi": 14.03,
+      "sellPerChi": 14.33,
+      "change": -0.2
     },
     {
       "id": "gold_18k",
