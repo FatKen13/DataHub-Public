@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-10T22:39:11.840793+07:00",
-  "updatedDate": "2026-10-10",
-  "updatedTime": "22:39:11 (GMT+7)",
+  "updatedAt": "2026-10-11T15:07:36.167892+07:00",
+  "updatedDate": "2026-10-11",
+  "updatedTime": "15:07:36 (GMT+7)",
   "source": "Thị trường Vàng Việt Nam & Tổng hợp Trực tuyến",
   "unit": "triệu đồng / lượng",
   "items": [
@@ -91,7 +91,7 @@
       "sell": 143.6,
       "buyPerChi": 13.96,
       "sellPerChi": 14.36,
-      "change": -0.1
+      "change": 0.0
     },
     {
       "id": "gold_9999",
