@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-15T13:50:19.596208+07:00",
+  "updatedAt": "2026-10-15T21:36:02.138473+07:00",
   "updatedDate": "2026-10-15",
-  "updatedTime": "13:50:19 (GMT+7)",
+  "updatedTime": "21:36:02 (GMT+7)",
   "source": "Thị trường Vàng Việt Nam & Tổng hợp Trực tuyến",
   "unit": "triệu đồng / lượng",
   "items": [
@@ -87,11 +87,11 @@
       "brand": "Bảo Tín Minh Châu",
       "name": "Vàng Rồng Thăng Long",
       "city": "Toàn quốc",
-      "buy": 138.6,
-      "sell": 142.6,
-      "buyPerChi": 13.86,
-      "sellPerChi": 14.26,
-      "change": -0.2
+      "buy": 138.2,
+      "sell": 142.2,
+      "buyPerChi": 13.82,
+      "sellPerChi": 14.22,
+      "change": -0.4
     },
     {
       "id": "gold_9999",
