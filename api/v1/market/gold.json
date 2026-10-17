@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-17T13:27:04.287701+07:00",
+  "updatedAt": "2026-10-17T20:24:10.735710+07:00",
   "updatedDate": "2026-10-17",
-  "updatedTime": "13:27:04 (GMT+7)",
+  "updatedTime": "20:24:10 (GMT+7)",
   "source": "Thị trường Vàng Việt Nam & Tổng hợp Trực tuyến",
   "unit": "triệu đồng / lượng",
   "items": [
@@ -14,7 +14,7 @@
       "sell": 143.6,
       "buyPerChi": 14.06,
       "sellPerChi": 14.36,
-      "change": -0.3
+      "change": 0.0
     },
     {
       "id": "sjc_nhan",
@@ -25,7 +25,7 @@
       "sell": 143.1,
       "buyPerChi": 14.01,
       "sellPerChi": 14.31,
-      "change": -0.3
+      "change": 0.0
     },
     {
       "id": "doji_hn",
@@ -36,7 +36,7 @@
       "sell": 143.1,
       "buyPerChi": 13.91,
       "sellPerChi": 14.31,
-      "change": -0.4
+      "change": 0.0
     },
     {
       "id": "pnj_gold",
@@ -47,7 +47,7 @@
       "sell": 143.1,
       "buyPerChi": 14.01,
       "sellPerChi": 14.31,
-      "change": -0.2
+      "change": 0.0
     },
     {
       "id": "gold_18k",
@@ -58,7 +58,7 @@
       "sell": 107.32,
       "buyPerChi": 10.51,
       "sellPerChi": 10.73,
-      "change": -0.23
+      "change": 0.0
     },
     {
       "id": "gold_14k",
@@ -69,7 +69,7 @@
       "sell": 83.43,
       "buyPerChi": 8.17,
       "sellPerChi": 8.34,
-      "change": -0.17
+      "change": 0.0
     },
     {
       "id": "doji_hcm",
@@ -80,7 +80,7 @@
       "sell": 143.1,
       "buyPerChi": 13.91,
       "sellPerChi": 14.31,
-      "change": -0.4
+      "change": 0.0
     },
     {
       "id": "btmc_rong",
@@ -91,7 +91,7 @@
       "sell": 142.4,
       "buyPerChi": 13.84,
       "sellPerChi": 14.24,
-      "change": -0.4
+      "change": 0.0
     },
     {
       "id": "gold_9999",
@@ -102,7 +102,7 @@
       "sell": 141.67,
       "buyPerChi": 13.87,
       "sellPerChi": 14.17,
-      "change": -0.3
+      "change": 0.0
     }
   ]
 }
