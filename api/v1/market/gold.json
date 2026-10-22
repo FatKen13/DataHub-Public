@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-22T13:56:45.252840+07:00",
+  "updatedAt": "2026-10-22T21:48:19.489432+07:00",
   "updatedDate": "2026-10-22",
-  "updatedTime": "13:56:45 (GMT+7)",
+  "updatedTime": "21:48:19 (GMT+7)",
   "source": "Thị trường Vàng Việt Nam & Tổng hợp Trực tuyến",
   "unit": "triệu đồng / lượng",
   "items": [
@@ -21,11 +21,11 @@
       "brand": "SJC",
       "name": "Vàng nhẫn SJC 99,99% (1-5 chỉ)",
       "city": "Toàn quốc",
-      "buy": 137.4,
-      "sell": 140.9,
-      "buyPerChi": 13.74,
-      "sellPerChi": 14.09,
-      "change": 0.0
+      "buy": 136.3,
+      "sell": 140.3,
+      "buyPerChi": 13.63,
+      "sellPerChi": 14.03,
+      "change": -0.6
     },
     {
       "id": "doji_hn",
@@ -36,7 +36,7 @@
       "sell": 142.2,
       "buyPerChi": 13.82,
       "sellPerChi": 14.22,
-      "change": 0.2
+      "change": 0.0
     },
     {
       "id": "pnj_gold",
@@ -54,22 +54,22 @@
       "brand": "Thị Trường",
       "name": "Vàng Tây 18K (75% Au)",
       "city": "Toàn quốc",
-      "buy": 103.05,
-      "sell": 105.68,
-      "buyPerChi": 10.3,
-      "sellPerChi": 10.57,
-      "change": 0.0
+      "buy": 102.23,
+      "sell": 105.23,
+      "buyPerChi": 10.22,
+      "sellPerChi": 10.52,
+      "change": -0.45
     },
     {
       "id": "gold_14k",
       "brand": "Thị Trường",
       "name": "Vàng Tây 14K (58.3% Au)",
       "city": "Toàn quốc",
-      "buy": 80.1,
-      "sell": 82.14,
-      "buyPerChi": 8.01,
-      "sellPerChi": 8.21,
-      "change": 0.0
+      "buy": 79.46,
+      "sell": 81.79,
+      "buyPerChi": 7.95,
+      "sellPerChi": 8.18,
+      "change": -0.35
     },
     {
       "id": "doji_hcm",
@@ -80,7 +80,7 @@
       "sell": 142.2,
       "buyPerChi": 13.82,
       "sellPerChi": 14.22,
-      "change": 0.2
+      "change": 0.0
     },
     {
       "id": "btmc_rong",
@@ -98,11 +98,11 @@
       "brand": "Thị Trường",
       "name": "Vàng 24K (99.99% - Nữ trang)",
       "city": "Toàn quốc",
-      "buy": 136.03,
-      "sell": 139.49,
-      "buyPerChi": 13.6,
-      "sellPerChi": 13.95,
-      "change": 0.0
+      "buy": 134.94,
+      "sell": 138.9,
+      "buyPerChi": 13.49,
+      "sellPerChi": 13.89,
+      "change": -0.59
     }
   ]
 }
