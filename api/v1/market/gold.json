@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-24T20:46:37.724404+07:00",
-  "updatedDate": "2026-10-24",
-  "updatedTime": "20:46:37 (GMT+7)",
+  "updatedAt": "2026-10-25T14:10:22.583178+07:00",
+  "updatedDate": "2026-10-25",
+  "updatedTime": "14:10:22 (GMT+7)",
   "source": "Thị trường Vàng Việt Nam & Tổng hợp Trực tuyến",
   "unit": "triệu đồng / lượng",
   "items": [
@@ -32,11 +32,11 @@
       "brand": "DOJI",
       "name": "DOJI Hưng Thịnh Vượng 9999",
       "city": "Toàn quốc",
-      "buy": 137.2,
-      "sell": 141.2,
-      "buyPerChi": 13.72,
-      "sellPerChi": 14.12,
-      "change": 0.0
+      "buy": 137.3,
+      "sell": 141.3,
+      "buyPerChi": 13.73,
+      "sellPerChi": 14.13,
+      "change": 0.1
     },
     {
       "id": "pnj_gold",
@@ -76,11 +76,11 @@
       "brand": "DOJI",
       "name": "DOJI Hưng Thịnh Vượng 9999 (TP.HCM)",
       "city": "Toàn quốc",
-      "buy": 137.2,
-      "sell": 141.2,
-      "buyPerChi": 13.72,
-      "sellPerChi": 14.12,
-      "change": 0.0
+      "buy": 137.3,
+      "sell": 141.3,
+      "buyPerChi": 13.73,
+      "sellPerChi": 14.13,
+      "change": 0.1
     },
     {
       "id": "btmc_rong",
