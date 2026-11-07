@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-07T00:04:58.504802+07:00",
+  "updatedAt": "2026-11-07T15:07:25.541367+07:00",
   "updatedDate": "2026-11-07",
-  "updatedTime": "00:04:58 (GMT+7)",
+  "updatedTime": "15:07:25 (GMT+7)",
   "source": "Thị trường Vàng Việt Nam & Tổng hợp Trực tuyến",
   "unit": "triệu đồng / lượng",
   "items": [
@@ -36,7 +36,7 @@
       "sell": 140.5,
       "buyPerChi": 13.65,
       "sellPerChi": 14.05,
-      "change": -0.2
+      "change": 0.0
     },
     {
       "id": "pnj_gold",
@@ -80,7 +80,7 @@
       "sell": 140.5,
       "buyPerChi": 13.65,
       "sellPerChi": 14.05,
-      "change": -0.2
+      "change": 0.0
     },
     {
       "id": "btmc_rong",
