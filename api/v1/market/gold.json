@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-09T15:56:37.757986+07:00",
-  "updatedDate": "2026-11-09",
-  "updatedTime": "15:56:37 (GMT+7)",
+  "updatedAt": "2026-11-10T03:20:24.056800+07:00",
+  "updatedDate": "2026-11-10",
+  "updatedTime": "03:20:24 (GMT+7)",
   "source": "Thị trường Vàng Việt Nam & Tổng hợp Trực tuyến",
   "unit": "triệu đồng / lượng",
   "items": [
@@ -14,7 +14,7 @@
       "sell": 141.2,
       "buyPerChi": 13.82,
       "sellPerChi": 14.12,
-      "change": 0.2
+      "change": 0.0
     },
     {
       "id": "sjc_nhan",
@@ -25,7 +25,7 @@
       "sell": 140.8,
       "buyPerChi": 13.68,
       "sellPerChi": 14.08,
-      "change": 0.3
+      "change": 0.0
     },
     {
       "id": "doji_hn",
@@ -36,7 +36,7 @@
       "sell": 141.0,
       "buyPerChi": 13.7,
       "sellPerChi": 14.1,
-      "change": 0.5
+      "change": 0.0
     },
     {
       "id": "pnj_gold",
@@ -47,7 +47,7 @@
       "sell": 140.6,
       "buyPerChi": 13.64,
       "sellPerChi": 14.06,
-      "change": 0.3
+      "change": 0.0
     },
     {
       "id": "gold_18k",
@@ -58,7 +58,7 @@
       "sell": 105.6,
       "buyPerChi": 10.26,
       "sellPerChi": 10.56,
-      "change": 0.22
+      "change": 0.0
     },
     {
       "id": "gold_14k",
@@ -69,7 +69,7 @@
       "sell": 82.09,
       "buyPerChi": 7.97,
       "sellPerChi": 8.21,
-      "change": 0.18
+      "change": 0.0
     },
     {
       "id": "doji_hcm",
@@ -80,18 +80,18 @@
       "sell": 141.0,
       "buyPerChi": 13.7,
       "sellPerChi": 14.1,
-      "change": 0.5
+      "change": 0.0
     },
     {
       "id": "btmc_rong",
       "brand": "Bảo Tín Minh Châu",
       "name": "Vàng Rồng Thăng Long",
       "city": "Toàn quốc",
-      "buy": 137.0,
-      "sell": 141.0,
-      "buyPerChi": 13.7,
-      "sellPerChi": 14.1,
-      "change": 0.5
+      "buy": 136.8,
+      "sell": 140.8,
+      "buyPerChi": 13.68,
+      "sellPerChi": 14.08,
+      "change": -0.2
     },
     {
       "id": "gold_9999",
@@ -102,7 +102,7 @@
       "sell": 139.39,
       "buyPerChi": 13.54,
       "sellPerChi": 13.94,
-      "change": 0.3
+      "change": 0.0
     }
   ]
 }
