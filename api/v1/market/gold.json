@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-10T16:03:36.844625+07:00",
-  "updatedDate": "2026-11-10",
-  "updatedTime": "16:03:36 (GMT+7)",
+  "updatedAt": "2026-11-11T00:24:25.494900+07:00",
+  "updatedDate": "2026-11-11",
+  "updatedTime": "00:24:25 (GMT+7)",
   "source": "Thị trường Vàng Việt Nam & Tổng hợp Trực tuyến",
   "unit": "triệu đồng / lượng",
   "items": [
@@ -14,7 +14,7 @@
       "sell": 140.9,
       "buyPerChi": 13.79,
       "sellPerChi": 14.09,
-      "change": -0.3
+      "change": 0.0
     },
     {
       "id": "sjc_nhan",
@@ -25,18 +25,18 @@
       "sell": 140.7,
       "buyPerChi": 13.67,
       "sellPerChi": 14.07,
-      "change": -0.1
+      "change": 0.0
     },
     {
       "id": "doji_hn",
       "brand": "DOJI",
       "name": "DOJI Hưng Thịnh Vượng 9999",
       "city": "Toàn quốc",
-      "buy": 137.2,
-      "sell": 141.2,
-      "buyPerChi": 13.72,
-      "sellPerChi": 14.12,
-      "change": 0.2
+      "buy": 137.0,
+      "sell": 141.0,
+      "buyPerChi": 13.7,
+      "sellPerChi": 14.1,
+      "change": -0.2
     },
     {
       "id": "pnj_gold",
@@ -47,7 +47,7 @@
       "sell": 140.3,
       "buyPerChi": 13.61,
       "sellPerChi": 14.03,
-      "change": -0.3
+      "change": 0.0
     },
     {
       "id": "gold_18k",
@@ -58,7 +58,7 @@
       "sell": 105.52,
       "buyPerChi": 10.25,
       "sellPerChi": 10.55,
-      "change": -0.08
+      "change": 0.0
     },
     {
       "id": "gold_14k",
@@ -69,29 +69,29 @@
       "sell": 82.03,
       "buyPerChi": 7.97,
       "sellPerChi": 8.2,
-      "change": -0.06
+      "change": 0.0
     },
     {
       "id": "doji_hcm",
       "brand": "DOJI",
       "name": "DOJI Hưng Thịnh Vượng 9999 (TP.HCM)",
       "city": "Toàn quốc",
-      "buy": 137.2,
-      "sell": 141.2,
-      "buyPerChi": 13.72,
-      "sellPerChi": 14.12,
-      "change": 0.2
+      "buy": 137.0,
+      "sell": 141.0,
+      "buyPerChi": 13.7,
+      "sellPerChi": 14.1,
+      "change": -0.2
     },
     {
       "id": "btmc_rong",
       "brand": "Bảo Tín Minh Châu",
       "name": "Vàng Rồng Thăng Long",
       "city": "Toàn quốc",
-      "buy": 137.0,
-      "sell": 141.0,
-      "buyPerChi": 13.7,
-      "sellPerChi": 14.1,
-      "change": 0.2
+      "buy": 136.8,
+      "sell": 140.8,
+      "buyPerChi": 13.68,
+      "sellPerChi": 14.08,
+      "change": -0.2
     },
     {
       "id": "gold_9999",
@@ -102,7 +102,7 @@
       "sell": 139.29,
       "buyPerChi": 13.53,
       "sellPerChi": 13.93,
-      "change": -0.1
+      "change": 0.0
     }
   ]
 }
