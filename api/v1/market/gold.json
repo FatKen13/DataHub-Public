@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-28T16:40:37.372221+07:00",
-  "updatedDate": "2026-11-28",
-  "updatedTime": "16:40:37 (GMT+7)",
+  "updatedAt": "2026-11-29T00:53:39.308948+07:00",
+  "updatedDate": "2026-11-29",
+  "updatedTime": "00:53:39 (GMT+7)",
   "source": "Thị trường Vàng Việt Nam & Tổng hợp Trực tuyến",
   "unit": "triệu đồng / lượng",
   "items": [
@@ -47,7 +47,7 @@
       "sell": 133.7,
       "buyPerChi": 12.75,
       "sellPerChi": 13.37,
-      "change": 0.7
+      "change": 0.0
     },
     {
       "id": "gold_18k",
